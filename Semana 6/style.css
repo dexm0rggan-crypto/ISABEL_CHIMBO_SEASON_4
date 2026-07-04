@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f5f7fa;
+}
+
+header{
+    background:linear-gradient(90deg,#0d6efd,#0a58ca);
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+.hero{
+    background:white;
+    border-radius:15px;
+    padding:40px;
+    box-shadow:0px 5px 15px rgba(0,0,0,.2);
+}
+
+.card-sga{
+    background:white;
+    border-radius:10px;
+    padding:15px;
+    margin-bottom:10px;
+    box-shadow:0px 3px 10px rgba(0,0,0,.1);
+}
+
+.btn-delete{
+    background:red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:5px;
+}
